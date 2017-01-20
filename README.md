@@ -1,2 +1,2 @@
-# MB
-molecular barcode pipline
+# MB process pipeline
+  doing sth with molecular barcode
